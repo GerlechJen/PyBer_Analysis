@@ -5,7 +5,7 @@ As a new data analyst for PyBer, a python-based ride-sharing app company, I was 
 In this project, continuing further with my exploratory analysis, I will be creating a summary DataFrame of the ride-sharing data by city type. I will also create a multiple-line graph that shows the total weekly fares for each city type between the months of January and April 2019. Finally, I will submit a written report that summarizes how the data differs by city type and how the differences can be used by decision-makers at PyBer.
 
 ## Results 
-
+![image1](https://github.com/GerlechJen/PyBer_Analysis/blob/main/Analysis/PyBerDataFrame.png)
 
 From the PyBer summary dataframe above, the following conclusions can be drawn:
 The urban city type had the highest number of total rides at 1,625 followed by the suburban city type at 625	total rides. The rural city had the least number of total rides at 125.
@@ -18,7 +18,9 @@ For average fare per ride, rural cities had the highest at $34.62. Suburban citi
 
 Rural cities had the highest average fare per driver at $55.49. Suburban cities had the second highest average fare per driver at $39.50, and urban cities had the lowest average fare per driver at $16.57.
 
-If we look at the multiple-line chart, we are able to see what the total fares were on a week to week basis for each city type. Overall from January to April, the total fare for the rural areas were always the least.This implies, small amount of money is generated there in total. The fares for the urban areas are always the highest throughout January to April while the total fares generated in the suburban cities always lie between the rural and urban cities total fares.  
+![image2](https://github.com/GerlechJen/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+
+If we look at the above multiple-line chart, we are able to see what the total fares were on a week to week basis for each city type. Overall from January to April, the total fare for the rural areas were always the least.This implies, small amount of money is generated there in total. The fares for the urban areas are always the highest throughout January to April while the total fares generated in the suburban cities always lie between the rural and urban cities total fares.  
 
 
 ## Summary
