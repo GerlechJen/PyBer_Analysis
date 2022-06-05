@@ -24,14 +24,10 @@ If we look at the multiple-line chart, we are able to see what the total fares w
 ## Summary
 I went further to find the ratio of total rides to total drivers for each city type. The ratio of rides to drivers for urban cities was 1:1.48. That of suburban cities was 1 :0.784 and rural cities had a ratio of 1:0.624. This shows that the rural cities have few drivers available per ride followed by the suburban cities. The urban cities have a higher number of drivers available per ride. making them attract higher fare charges. The principle of demand verses supply is evident here.
 
-Based on the complete analysis of all results, I will like to recommend that:
+Based on the final results of the analysis, I will like to recommend that:
 
-1. The fares for the rural and suburban cities be reduced. The fares for the rural cities are high compared to the urban and suburban cities. Therefore rides there are not well patronized resulting in the total rides in the rural areas being the lowest followed by suburban areas.
-2. The number of drivers in the rural and suburban cities be increased so that they would have the ratio of drivers to rides being similar to that of the urban cities. This could end up reducing the fares in the rural and suburban cities as the demand verses supply will be more balanced. 
-3. 
-
-Have your drivers assigned to different city types based on the type of cities they typically work in.
-Charge more per mile in urban cities because trips most likely are shorter and drivers dont earn much per trip.
-Make small charge increases or descreases based on how many riders there are in the city during certain months.
+1. The fares for the rural and suburban cities be reduced. The fares for these locations are higher compared to the urban cities. A reduction in fare could increase patronization of riders in these cities. 
+2. You expand the business in the rural and suburban cities by increasing the number of drivers so that they would have a ratio of drivers to rides similar to that of the urban cities. This could end up reducing the fares in the rural and suburban cities as the demand verses supply will be more balanced. 
+3.During certain months or holidays, some form of promotion is done. It could be giving discounts on ride fares. This would encourage more people to patronize during those times and even bring on board new riders. 
 
 
