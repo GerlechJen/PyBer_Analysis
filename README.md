@@ -18,12 +18,17 @@ For average fare per ride, rural cities had the highest at $34.62. Suburban citi
 
 Rural cities had the highest average fare per driver at $55.49. Suburban cities had the second highest average fare per driver at $39.50, and urban cities had the lowest average fare per driver at $16.57.
 
-If we look at the multiple-line chart, we are able to see what the total fares were on a week to week basis for each city type. Overall the total fare for the rural areas are smaller.That is, small amount of moey is generated there. The fare for the urban areas on a weekly basis are always higher while the total fare geberated in the suburban cities always lies between the rural and urban cities.  
+If we look at the multiple-line chart, we are able to see what the total fares were on a week to week basis for each city type. Overall from January to April, the total fare for the rural areas were always the least.This implies, small amount of money is generated there in total. The fares for the urban areas are always the highest throughout January to April while the total fares generated in the suburban cities always lie between the rural and urban cities total fares.  
 
 
-## Summary:  for addressing any disparities among the city types.
-Based on these results, my recommendations is that:
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary
+I went further to find the ratio of total rides to total drivers for each city type. The ratio of rides to drivers for urban cities was 1:1.48. That of suburban cities was 1 :0.784 and rural cities had a ratio of 1:0.624. This shows that the rural cities have few drivers available per ride followed by the suburban cities. The urban cities have a higher number of drivers available per ride. making them attract higher fare charges. The principle of demand verses supply is evident here.
+
+Based on the complete analysis of all results, I will like to recommend that:
+
+1. The fares for the rural and suburban cities be reduced. The fares for the rural cities are high compared to the urban and suburban cities. Therefore rides there are not well patronized resulting in the total rides in the rural areas being the lowest followed by suburban areas.
+2. The number of drivers in the rural and suburban cities be increased so that they would have the ratio of drivers to rides being similar to that of the urban cities. This could end up reducing the fares in the rural and suburban cities as the demand verses supply will be more balanced. 
+3. 
 
 Have your drivers assigned to different city types based on the type of cities they typically work in.
 Charge more per mile in urban cities because trips most likely are shorter and drivers dont earn much per trip.
