@@ -4,7 +4,7 @@ As a new data analyst for PyBer, a python-based ride-sharing app company, I was 
 
 In this project, continuing further with my exploratory analysis, I will be creating a summary DataFrame of the ride-sharing data by city type. I will also create a multiple-line graph that shows the total weekly fares for each city type between the months of January and April 2019. Finally, I will submit a written report that summarizes how the data differs by city type and how the differences can be used by decision-makers at PyBer.
 
-## Results Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Results 
 
 
 From the PyBer summary dataframe above, the following conclusions can be drawn:
@@ -21,7 +21,8 @@ Rural cities had the highest average fare per driver at $55.49. Suburban cities 
 If we look at the multiple-line chart, we are able to see what the total fares were on a week to week basis for each city type. Overall the total fare for the rural areas are smaller.That is, small amount of moey is generated there. The fare for the urban areas on a weekly basis are always higher while the total fare geberated in the suburban cities always lies between the rural and urban cities.  
 
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary:  for addressing any disparities among the city types.
+Based on these results, my recommendations is that:
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
 
 Have your drivers assigned to different city types based on the type of cities they typically work in.
