@@ -19,7 +19,7 @@ From the PyBer summary dataframe above, the following conclusions can be drawn f
 
 * Rural cities had the highest average fare per driver at $55.49. Suburban cities had the second highest average fare per driver at $39.50, and urban cities had the lowest average fare per driver at $16.57.
 
-![image2]
+![image2](https://github.com/GerlechJen/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 When we look at the above multiple-line chart, we are able to see what the total fares were on a week to week basis for each city type. Overall, from January to April, the total fare for the rural areas were always the least.This implies that in total, small amount of money is generated from the rural city type despite it having the highest average fare per ride. The total fares for the urban city type are always the highest throughout January to April while the total fares generated in the suburban city type always lie between the rural and urban cities total fares.  
 
