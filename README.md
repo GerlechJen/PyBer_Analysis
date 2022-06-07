@@ -32,5 +32,3 @@ Based on the overall results of the analysis, I will like to recommend that:
 1. The fares for the rural and suburban cities be reduced. The fares for these locations are higher compared to the urban cities. A reduction in fare could increase patronization of riders in these cities. 
 2. You expand the business in the rural and suburban cities by increasing the number of drivers so that they would have a ratio of drivers to rides similar to that of the urban cities. This could end up reducing the fares in the rural and suburban cities as the demand verses supply will be more balanced. 
 3. During certain months or holidays, some form of promotion is organized. It could be giving discounts on ride fares. This would encourage more people to patronize during those times and even bring on board new riders. 
-
-
